@@ -30,16 +30,3 @@
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/oiayumitk" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/miihjpg/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="30" alt="instagram logo"  />
-  </a>
-  <a href="oiayumi.tk@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="30" alt="gmail logo"  />
-  </a>
-</div>
-
-###
