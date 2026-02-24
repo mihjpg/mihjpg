@@ -1,16 +1,18 @@
-## Hi there 👋
+## Prazer, pode me chamar de Mih!
 
-<!--
-**mihjpg/mihjpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> 
+  Estudante de Segurança da Informação na FMU e em formação como desenvolvedora Java backend na Alura, movida por curiosidade e paixão por aprender.
+  Meu objetivo é desenvolver sistemas seguros e funcionais, e, no futuro, produzir conteúdos que ajude novos colegas iniciantes em TI a aprender de forma prática e inspiradora.
+  
+</p>
 
-Here are some ideas to get you started:
+`Java` `Spring Boot` `Spring Security` `PostgreSQL`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+</div>
