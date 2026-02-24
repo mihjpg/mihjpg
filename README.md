@@ -1,5 +1,7 @@
+<br clear="both">
+
 <div align="center">
-  <img height="271" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxpNHpyb3dsc3FsN2x2c2t4aTlld3JseWc2M242bWsyMHJ0c2VwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fI4yyxjrRRJV0XZ5NL/giphy.gif"  />
+  <img height="260" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxpNHpyb3dsc3FsN2x2c2t4aTlld3JseWc2M242bWsyMHJ0c2VwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fI4yyxjrRRJV0XZ5NL/giphy.gif"  />
 </div>
 
 ###
@@ -8,17 +10,15 @@
 
 ###
 
-<img align="right" height="187" src=" https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lvd3FhamxpMHpwODM5cjhqMWs1Y3d4cjhqaGY2NzdxbnkzYmV4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TrVla4Z2PYEkU/giphy.gif"  />
+<br clear="both">
 
-###
-
-<h2 align="left">Estudante de Segurança da Informação na FMU e em formação como desenvolvedora Java backend na Alura, movida por curiosidade e paixão por estudante. Meu objetivo é desenvolver sistemas seguros e funcionais, e, no futuro, produzir conteúdos que ajudem novos colegas iniciantes em TI a aprender de forma prática e inspiradora.</h2>
+<h4 align="left">Estudante de Segurança da Informação na FMU e em formação como desenvolvedora Java backend na Alura, movida por curiosidade e paixão por estudante. Meu objetivo é desenvolver sistemas seguros e funcionais, e, no futuro, produzir conteúdos que ajudem novos colegas iniciantes em TI a aprender de forma prática e inspiradora.</h4>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="41" alt="javascript logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="41" alt="java logo"  />
