@@ -9,9 +9,7 @@
 <h1 align="left">Olá, eu sou a Mih!</h1>
 
 ###
-
 <br clear="both">
-
 <h3 align="left">Estudante de Segurança da Informação na FMU e em formação como desenvolvedora Java backend na Alura, movida por curiosidade e paixão por estudante. Meu objetivo é desenvolver sistemas seguros e funcionais, e, no futuro, produzir conteúdos que ajudem novos colegas iniciantes em TI a aprender de forma prática e inspiradora.</h3>
 
 ###
