@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Estudante de Segurança da Informação na FMU e em formação como desenvolvedora Java backend na Alura, movida por curiosidade e paixão por estudante. Meu objetivo é desenvolver sistemas seguros e funcionais, e, no futuro, produzir conteúdos que ajudem novos colegas iniciantes em TI a aprender de forma prática e inspiradora.</h4>
+<h4 align="left">Olá! Eu sou a Ayumi Takeyama (Mih), estudante de Segurança da Informação na FMU e apaixonada por tecnologia. Atualmente, estou focada no desenvolvimento Back-end com Java, Spring Boot e SQL, sempre em busca de aprender, criar projetos e evoluir como desenvolvedora. 🚀.</h4>
 
 ###
 
