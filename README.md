@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Olá! Eu sou a Ayumi Takeyama (Mih), estudante de Segurança da Informação e desenvolvedora Back-end em formação. Atualmente, desenvolvo projetos com Java, Spring Boot e SQL, sempre buscando criar APIs e aplicações seguras, escaláveis e bem estruturadas. 🚀.</h4>
+<h4 align="left">Ayumi Takeyama (Mih), estudante de Segurança da Informação e desenvolvedora Back-end em formação. Atualmente, desenvolvo projetos com Java, Spring Boot e SQL, sempre buscando criar APIs e aplicações seguras, escaláveis e bem estruturadas. 🚀.</h4>
 
 ###
 
