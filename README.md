@@ -5,7 +5,7 @@
 
 ###
 
-<h1 align="left">Olá, eu sou a Mih!</h1>
+<h1 align="left">Olá, seja bem-vindo(a)!</h1>
 
 ###
 
