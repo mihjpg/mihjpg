@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Ayumi Takeyama 👋</h1>
+<h1 align="center">Olá, eu sou a Ayumi Takeyama </h1>
 
 <p align="center">
 Desenvolvedora Back-end em formação • Java • Spring Boot • Segurança da Informação
@@ -16,7 +16,7 @@ Meu objetivo é construir aplicações seguras e de alta qualidade enquanto cont
 
 ---
 
-## 💻 Tecnologias
+## Tecnologias
 
 <div align="left">
 
@@ -38,7 +38,7 @@ Meu objetivo é construir aplicações seguras e de alta qualidade enquanto cont
 
 ---
 
-## 🌱 Atualmente estudando
+## Atualmente estudando
 
 - Java
 - Spring Boot
@@ -49,7 +49,7 @@ Meu objetivo é construir aplicações seguras e de alta qualidade enquanto cont
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p align="left">
 <a href="https://www.linkedin.com/in/oiayumitk/">LinkedIn</a> •
