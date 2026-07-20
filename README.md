@@ -18,7 +18,7 @@ Meu objetivo é construir aplicações seguras e de alta qualidade enquanto cont
 
 ## 🚀 Projetos em destaque
 
-### Denju
+### Denju (🚧 Projeto em desenvolvimento.)
 API REST desenvolvida em Java e Spring Boot para gerenciamento de usuários.
 
 **Tecnologias**
@@ -64,6 +64,7 @@ Projeto focado em autenticação, organização em camadas e utilização de DTO
 
 - Java
 - Spring Boot
+- AWS
 - Docker
 - Arquitetura de Software
 - Segurança de Aplicações
