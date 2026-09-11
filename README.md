@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Ayumi Takeyama </h1>
 
 <p align="center">
-Desenvolvedora Back-end em formação • Java • Spring Boot • Segurança da Informação
+Desenvolvedora Back-end • Java • Spring Boot • Segurança da Informação
 </p>
 
 ---
