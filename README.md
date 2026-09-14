@@ -8,7 +8,7 @@ Desenvolvedora Back-end em formação • Java • Spring Boot • Segurança da
 
 ## 👩🏻‍💻 Sobre mim
 
-Sou estudante de **Segurança da Informação na FMU** e desenvolvedora **Back-end Java em formação**.
+Sou estudante de **Cybersecurity na FMU** e desenvolvedora **Back-end Java**.
 
 Atualmente, desenvolvo **APIs REST com Java e Spring Boot**, trabalhando com **Programação Orientada a Objetos (POO), Spring Data JPA, Hibernate, PostgreSQL, arquitetura em camadas e persistência de dados**.
 
@@ -92,7 +92,7 @@ Meu objetivo é evoluir como desenvolvedora Back-end, transformar conhecimento e
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Atualmente focando em:
 
 * Java e seus fundamentos
 * Spring Security
